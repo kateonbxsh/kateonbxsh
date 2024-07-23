@@ -10,11 +10,13 @@ hi, my name is aouab, and welcome to my github
   - Rivalium, a 2.5D-style competitive high-octane multiplayer platformer game, made using the GameMaker Engine, TypeScript and React
   - [Cherry](../../../Cherry), a C-like interpreted typed programming language, made in C++
   - [DiscordPresency](../../../DiscordPresency), a Discord Rich Presence extension for the GameMaker Engine, made in C++
+  - [Neural Network](../../../NeuralNetwork) written in Typescript, currently training a simple convolutional neural network to identify digits
 - 🌱 i’m currently learning
   - the Go language, so far so good, although it's very out of the ordinary
   - rust, even more out of the ordinary
   - UX/UI design
   - React Native and mobile development
+  - GLSL shaders
 - 👨🏼‍🎓 currently interning at [Space Applications Services](https://spaceapplications.com)
 
 ***
