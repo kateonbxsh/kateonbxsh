@@ -23,19 +23,19 @@ hi, my name is aouab, and welcome to my github
 <p align="center">
   
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api?username=kateonbxsh&show_icons=true&theme=nord&bg_color=00000000&custom_title=kateonbxsh's%20stats&hide_border=true#gh-dark-mode-only" alt="kateonbxsh's stats (dark mode)" height=200>
+    <img src="https://github-readme-stats.vercel.app/api?username=kateonbxsh&show_icons=true&theme=nord&bg_color=00000000&custom_title=my%20stats&hide_border=true#gh-dark-mode-only" alt="kateonbxsh's stats (dark mode)" height=200>
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api?username=kateonbxsh&show_icons=true&bg_color=00000000&custom_title=kateonbxsh's%20stats&hide_border=true#gh-light-mode-only" alt="kateonbxsh's stats (light mode)" height=200>
+    <img src="https://github-readme-stats.vercel.app/api?username=kateonbxsh&show_icons=true&bg_color=00000000&custom_title=my%20stats&hide_border=true#gh-light-mode-only" alt="kateonbxsh's stats (light mode)" height=200>
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kateonbxsh&show_icons=true&theme=nord&bg_color=00000000&layout=donut&hide=yacc&hide_border=true#gh-dark-mode-only" alt="kateonbxsh's top langs (dark mode)" height=200>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kateonbxsh&show_icons=true&theme=nord&bg_color=00000000&custom_title=my%20languages&layout=donut&hide=yacc&hide_border=true#gh-dark-mode-only" alt="kateonbxsh's top langs (dark mode)" height=200>
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kateonbxsh&show_icons=true&bg_color=00000000&layout=donut&hide=yacc&hide_border=true#gh-light-mode-only" alt="kateonbxsh's top langs (light mode)" height=200>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kateonbxsh&show_icons=true&bg_color=00000000&layout=donut&custom_title=my%20languages&hide=yacc&hide_border=true#gh-light-mode-only" alt="kateonbxsh's top langs (light mode)" height=200>
 </a>
 </p>
 
