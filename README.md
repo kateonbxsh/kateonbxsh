@@ -3,8 +3,8 @@
 
 hi, my name is aouab, and welcome to my github
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kateonbxsh&theme=nord&column=-1&no-bg=true&no-frame=true#gh-dark-mode-only)](https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only)
-[![trophy](https://github-profile-trophy.vercel.app/?username=kateonbxsh&column=-1&no-bg=true&no-frame=true#gh-light-mode-only)](https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kateonbxsh&theme=nord&column=-1&no-bg=true&row=1&column=5&no-frame=true#gh-dark-mode-only)](https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kateonbxsh&column=-1&no-bg=true&row=1&column=5&&no-frame=true#gh-light-mode-only)](https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only)
 
 - 🔭 i’m currently working on
   - Rivalium, a 2.5D-style competitive high-octane multiplayer platformer game, made using the GameMaker Engine, TypeScript and React
