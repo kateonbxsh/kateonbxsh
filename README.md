@@ -3,11 +3,21 @@
 
 hi, my name is aouab, and welcome to my github
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kateonbxsh&theme=nord&column=-1&no-bg=true&row=1&column=5&no-frame=true#gh-dark-mode-only)](https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only)
-[![trophy](https://github-profile-trophy.vercel.app/?username=kateonbxsh&column=-1&no-bg=true&row=1&column=5&&no-frame=true#gh-light-mode-only)](https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only)
+<p align="center">
+
+  <a href="https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only">
+    <img src="https://github-profile-trophy.vercel.app/?username=kateonbxsh&theme=nord&column=6&no-bg=true&row=1&column=5&no-frame=true#gh-dark-mode-only" alt="trophies" />
+  </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only">
+    <img src="https://github-profile-trophy.vercel.app/?username=kateonbxsh&column=6&no-bg=true&row=1&column=5&&no-frame=true#gh-light-mode-only" alt="trophies" />
+  </a>
+
+</p>
 
 - 🔭 i’m currently working on
   - Rivalium, a 2.5D-style competitive high-octane multiplayer platformer game, made using the GameMaker Engine, TypeScript and React
+      - If you want to see the development of the game, join our [Discord](https://discord.rivalium.online) or check out the [website](https://rivalium.online)
+      - The game is currently in pre-alpha phase
   - [Cherry](../../../Cherry), a C-like interpreted typed programming language, made in C++
   - [DiscordPresency](../../../DiscordPresency), a Discord Rich Presence extension for the GameMaker Engine, made in C++
   - [Neural Network](../../../NeuralNetwork) written in Typescript, currently training a simple convolutional neural network to identify digits
