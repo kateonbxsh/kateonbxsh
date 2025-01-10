@@ -11,7 +11,7 @@
 ### **latest projects..**  
 🚀 **[Rivalium](https://rivalium.online)** — 2.5D competitive multiplayer platformer (pre-alpha)  
 🛠️ **[Cherry](../../../Cherry)** — C-like programming language  
-🧠 **[Neural Network](../../../NeuralNetwork)** — custom AI library
+🧠 **[MiniGPT](../../../MiniGPT)** — A custom AI library with a GPT prototype made from scratch.
 
 ### **currently learning..**  
 🌱 Rust, UI/UX, mobile development
